@@ -1,0 +1,7 @@
+name: FisrtBegin
+main: FirstBegin\Main
+author: zingding
+version: "1.0-release"
+api:
+- 1.13.0
+- 2.0.0
